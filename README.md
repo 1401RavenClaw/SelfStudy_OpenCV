@@ -16,4 +16,20 @@
         There are factors that can affect image understand such as angles, colour composture and other optical disortions.
   
   Hands on:
-    Here we are using Oracle VM VirtualBox Manager to open Ubuntu environment to test code in python. 
+    Here we are using Oracle VM VirtualBox Manager to open Ubuntu environment to test code in python.
+
+
+## **Day 2 : 01/10/2019**
+ - Chapter 3 : Environment setup & running first code
+        Completed settings up environment to run sample codes from jupyter notebook and also ran few examples.
+
+ - Chapter 4 : Introduction to machine learning and neural networks, here we say different types of superised learning.
+
+Types of machine learning modules:
+   - Supervised learning (with expected segrigation)
+   - Unsupervised learning (with unexpected segrigation, involves clustering)
+   - Self supervised learning (lables data)
+   - Reinforced learning (learning from failures, when ever module faces failure it will learn not to fail in same scenario)
+
+Also we learned how nodes process weigths, seeing into the topic we learned of a term called bias.
+
