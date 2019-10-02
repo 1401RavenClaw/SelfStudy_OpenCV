@@ -25,7 +25,7 @@
 
  - Chapter 4 : Introduction to machine learning and neural networks, here we say different types of superised learning.
 
-Types of machine learning modules:
+ **Types of machine learning modules:**
    - Supervised learning (with expected segrigation)
    - Unsupervised learning (with unexpected segrigation, involves clustering)
    - Self supervised learning (lables data)
@@ -33,3 +33,25 @@ Types of machine learning modules:
 
 Also we learned how nodes process weigths, seeing into the topic we learned of a term called bias.
 
+## **Day 3 : 02/10/2019**
+
+ - Chapter 4 : Contin....  
+ 
+ Introduction to activation function:
+ 
+ Rectified Linear Unit (ReLU)
+  - Biases : Shift values left and right in curve by adding biase values to weights (xi+b)
+  
+  Neuron only triggers only when threshold value is reached (Basics of NNs)
+  
+  ###Training NNs:
+  
+  - Assign random weights and biase
+  - Pass values into hidden nodes
+  - Compare expected output and obtained output by using Mean Squared Error method (Expected Output - Obtained Output )2
+  - Adjust weigths based on loss calcualted using back propagation
+  - Repeat process with more data
+  - Stop whenn loss is minimal
+  
+  (To decrease loss introduce -ve gradients)
+   
